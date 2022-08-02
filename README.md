@@ -8,5 +8,5 @@ I am a full-time undergraduate student attending Drexel University that is pursu
 - JavaScript
 
 ## Contact
-LinkedIn: https://www.linkedin.com/in/andrewnguyen850/
-Email: andrewnguyen850@gmail.com
+- LinkedIn: https://www.linkedin.com/in/andrewnguyen850/
+- Email: andrewnguyen850@gmail.com
