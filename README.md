@@ -5,7 +5,9 @@ I am a full-time undergraduate student attending Drexel University that is pursu
 - Python
 - HTML
 - CSS
-- JavaScript
+- Java
+- C++
+- C
 
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/andrewnguyen850/
